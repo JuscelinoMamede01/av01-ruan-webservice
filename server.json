@@ -2,31 +2,31 @@
   "products": [
     {
       "id": 1,
-      "name": "Guitarra Elétrica Modelo X",
+      "name": "Guitarra ",
       "price": "599.99",
       "category": "Instrumentos Musicais",
       "image": "https://source.unsplash.com/random/300x300/?guitar"
     },
     {
-      "id": 2,
-      "name": "Guitarra Acústica Modelo Y",
-      "price": "399.99",
-      "category": "Instrumentos Musicais",
-      "image": "https://source.unsplash.com/random/300x300/?guitar"
-    },
-    {
-      "name": "Fruta1",
-      "price": "5.00",
-      "category": "Frutas",
-      "image": "https://source.unsplash.com/random/300x300/?fruts",
-      "id": 3
-    },
-    {
-      "name": "Fruta 2",
+      "name": "Fruta ",
       "price": "9.00",
       "category": "Frutas",
       "image": "https://source.unsplash.com/random/300x300/?fruts",
       "id": 4
+    },
+    {
+      "name": "Jersey ",
+      "price": "299.99",
+      "category": "Sports",
+      "image": "https://source.unsplash.com/random/300x300/?jersey",
+      "id": 5
+    },
+    {
+      "name": "Brinquedo ",
+      "price": "55.21",
+      "category": "Toys",
+      "image": "https://source.unsplash.com/random/300x300/?toy",
+      "id": 6
     }
   ]
 }
